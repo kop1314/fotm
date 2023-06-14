@@ -1,0 +1,7 @@
+batch_size: 100
+beta: 0
+latent_dim: 6
+lr: 0.001
+num_epochs: 10
+wx: 0.02
+wy: 0.01
