@@ -1,7 +1,7 @@
 batch_size: 100
-beta: 0
-latent_dim: 6
+beta: 5
+latent_dim: 1
 lr: 0.001
-num_epochs: 10
-wx: 0.02
-wy: 0.01
+num_epochs: 5
+wx: 9500
+wy: 0.0001
