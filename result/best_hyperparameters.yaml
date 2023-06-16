@@ -3,5 +3,5 @@ beta: 5
 latent_dim: 1
 lr: 0.001
 num_epochs: 5
-wx: 9500
+wx: 10000
 wy: 0.0001
